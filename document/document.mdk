@@ -3,6 +3,18 @@ Author        : ZHOU
 Logo          : false
 
 [TITLE]
-
+SVM (Support Vector Machine) 能够处理线性和非线性的分类和预测问题。非常适合复杂中小数据集的分类任务。
 # SVM 线性分类
+## 原理
+## Hard contrained
+## Soft contrained
+
+
 # SVM 非线性分类
+## 多项式 Polynomial Kernel
+## 相似性特征 Similarity
+## 高斯特征 RBF Kernel
+## 计算复杂度
+
+# SVM R
+# 原理
