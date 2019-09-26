@@ -8,7 +8,9 @@ SVM (Support Vector Machine) 能够处理线性和非线性的分类和预测问
 ## 原理
 ## Hard contrained
 ## Soft contrained
-
+## Hinge Loss
+## 优化
+### KKT 
 
 # SVM 非线性分类
 ## 多项式 Polynomial Kernel
@@ -16,5 +18,7 @@ SVM (Support Vector Machine) 能够处理线性和非线性的分类和预测问
 ## 高斯特征 RBF Kernel
 ## 计算复杂度
 
-# SVM R
+# SVM Regression
 # 原理
+## primal 和 dual  问题
+## Kernel Trick
